@@ -1,7 +1,7 @@
-* Hi, I’m @kvanbortel
-* I’m interested in drawing, writing, and coding
-* I’m currently learning drawing, writing, and coding
-* In college I plan to draw, write, and code
+* I’m a Software Engineering student at Rochester Institute of Technology
+* I’m familiar with web development, React, SQL, Java, C, and Python
+* My goal this semester was to get to swing a steel sword around in Historical European Martial Arts (HEMA) club and I did it
+* I enjoy creative writing so much that sometimes friends mistake me for an English major
 
 <!---
 kvanbortel/kvanbortel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
