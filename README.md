@@ -1,6 +1,6 @@
 * I’m a Software Engineering student at Rochester Institute of Technology
 * I’m familiar with web development, React, SQL, Java, C, and Python
-* My goal this semester was to get to swing a steel sword around in Historical European Martial Arts (HEMA) club and I did it
+* I wanted to swing a steel sword around in Historical European Martial Arts (HEMA) club and I did it
 * I enjoy creative writing so much that sometimes friends mistake me for an English major
 
 <!---
